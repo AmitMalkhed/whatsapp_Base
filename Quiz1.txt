@@ -1,0 +1,19 @@
+1. Centralised version code system and Distributed version code system
+2. Prometheus and Grafana
+3. Jenkins is used for automation purpose
+4. Git is a sourse code management tool
+5. Devops is combination of Development and Operation and it is set of practices and tools
+   designed to shorten the life cycle of software development process.
+6. Three stages in GIT are:
+   1. working directory
+   2. Staging area
+   3. Git repository
+7. Branch is a main storage for all codes which we creates 
+8. git stash
+9. git clone [paste url of repository]
+10. git add -A
+11. Maven is used for packaging codes
+12. Github is a code hosting platform for version control and collaboration.
+13. git status
+14. Docker
+15. Ansible
